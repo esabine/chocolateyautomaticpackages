@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SQLSentryPlanExplorer</id>
+    <title>SQLSentryPlanExplorer</title>
+    <version>{{PackageVersion}}</version>
+    <authors>SQLSentry.net</authors>
+    <owners>Eric Sabine</owners>
+    <summary>SQLSentryPlanExplorer</summary>
+    <description>SQLSentryPlanExplorer</description>
+    <projectUrl>http://www.sqlsentry.net/plan-explorer/sql-server-query-view.asp</projectUrl>
+    <tags>SQLSentryPlanExplorer admin</tags>
+    <copyright></copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/esabine/chocolateyautomaticpackages/master/SQLSentryPlanExplorer/SQLSentryPlanExplorer.png</iconUrl>
+    <releaseNotes>converted to chocolatey automatic packages</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
