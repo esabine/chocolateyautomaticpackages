@@ -13,7 +13,7 @@
     <copyright></copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/esabine/chocolateyautomaticpackages/master/SQLSentryPlanExplorer/SQLSentryPlanExplorer.png</iconUrl>
-    <releaseNotes>converted to chocolatey automatic packages</releaseNotes>
+    <releaseNotes>Converted to chocolatey automatic packages</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
