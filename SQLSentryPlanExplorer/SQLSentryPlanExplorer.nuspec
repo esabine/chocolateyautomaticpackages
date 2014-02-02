@@ -12,7 +12,7 @@
     <tags>SQLSentryPlanExplorer admin</tags>
     <copyright></copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.github.com/esabine/chocolateyautomaticpackages/master/SQLSentryPlanExplorer/SQLSentryPlanExplorer.png</iconUrl>
+    <iconUrl>https://raw2.github.com/esabine/chocolateyautomaticpackages/master/SQLSentryPlanExplorer/sqlsentryplanexplorer.png</iconUrl>
     <releaseNotes>Converted to chocolatey automatic packages</releaseNotes>
   </metadata>
   <files>
